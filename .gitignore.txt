@@ -1,0 +1,5 @@
+venv/
+_pycache_/
+*.pyc
+data/known/faces/
+results/attendance.csv
